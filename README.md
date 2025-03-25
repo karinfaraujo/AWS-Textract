@@ -14,7 +14,7 @@ Aqui estão alguns prints de como os serviços foram configurados:
 Aqui estão alguns prints do processo de OCR aplicado na CNH:
 
 ### 1. Imagem original da CNH
-![Imagem da CNH](url_do_print_1)
+![Imagem da CNH](https://github.com/karinfaraujo/AWS-Textract/blob/main/cnh.png?raw=true)
 
 ### 2. Resultado do OCR extraído da CNH
 ![Resultado do OCR](url_do_print_2)
