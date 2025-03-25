@@ -60,7 +60,7 @@ O modelo foi aplicado para reconhecer celebridades em imagens:
 ### 5. Resultado do Reconhecimento da Celebridade 2
 ![Resultado Celebridade](https://github.com/karinfaraujo/AWS-Textract/blob/main/reconhecimento_celebridades/msn-resultado.jpg?raw=true)
 
-### 6. Resultado do reconhecimento da celebridade 3
+### 6. Resultado do Reconhecimento da Celebridade 3
 ![Resultado Celebridade](https://github.com/karinfaraujo/AWS-Textract/blob/main/reconhecimento_celebridades/neymar-torcedores-resultado.jpg?raw=true)
 
 ## Insights
