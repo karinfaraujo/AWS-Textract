@@ -6,12 +6,8 @@ Transcrevendo uma Imagem em Texto com AWS Textract
 ## Introdução
 Durante o curso de Análise Avançada de Imagens e Texto com Inteligência Artificial na AWS, aprendi sobre a integração de serviços da AWS para realizar análises complexas, como reconhecimento de imagens e processamento de linguagem natural.
 
-## Prints do Processo
-
-Aqui estão alguns prints de como os serviços foram configurados:
-
 ## OCR CNH
-Aqui estão alguns prints do processo de OCR aplicado na CNH:
+Print e código Python:
 
 ### 1. Imagem original da CNH
 ![Imagem da CNH](https://github.com/karinfaraujo/AWS-Textract/blob/main/cnh.png?raw=true)
@@ -20,7 +16,7 @@ Aqui estão alguns prints do processo de OCR aplicado na CNH:
 ![Resultado do OCR](ocr_cnh)
 
 ## OCR Lista Escolar
-Veja como o OCR foi aplicado à lista escolar:
+Print e código Python do OCR e como ele foi aplicado à lista escolar:
 
 ### 1. Imagem original da lista escolar
 ![Imagem da Lista Escolar](https://github.com/karinfaraujo/AWS-Textract/blob/main/lista-material-escolar.jpeg?raw=true)
@@ -73,6 +69,7 @@ O modelo foi aplicado para reconhecer celebridades em imagens:
 ## Insights
 - A utilização de ferramentas como Amazon Rekognition permite que a análise de imagens seja realizada de maneira escalável e eficiente.
 - O Amazon Textract facilita a extração de texto de documentos escaneados, permitindo automação em diversos setores.
+- Há várias possibilidades de utilização do Amazon Textract, com isso se torna uma ferramenta muito interessante. 
 
 ## Possibilidades
 Com os conhecimentos adquiridos, é possível aplicar essas tecnologias para:
