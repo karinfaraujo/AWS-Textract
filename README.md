@@ -38,7 +38,7 @@ Aqui estão os resultados do reconhecimento de atacantes:
 ![Atacante 2](https://github.com/karinfaraujo/AWS-Textract/blob/main/cr7.jpg?raw=true)
 
 ### 3. Atacante 3 Identificado
-![Atacante 3](
+![Atacante 3](https://github.com/karinfaraujo/AWS-Textract/blob/main/messi.jpg?raw=true)
 
 ### 4. Atacante 4 Identificado
 ![Atacante 4](
