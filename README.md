@@ -55,8 +55,20 @@ O modelo foi aplicado para reconhecer celebridades em imagens:
 ### 1. Imagem de celebridade
 ![Imagem de Celebridade](url_do_print_6)
 
-### 2. Resultado do reconhecimento da celebridade
-![Resultado Celebridade](https://github.com/karinfaraujo/AWS-Textract/blob/main/bbc-resultado.jpg?raw=true)
+### 2. Imagem de celebridade
+![Imagem de Celebridade](url_do_print_6)
+
+### 3. Imagem de celebridade
+![Imagem de Celebridade](url_do_print_6)
+
+### 4. Resultado do reconhecimento da celebridade 1
+![Resultado Celebridade]()
+
+### 5. Resultado do reconhecimento da celebridade 2
+![Resultado Celebridade]()
+
+### 6. Resultado do reconhecimento da celebridade 3
+![Resultado Celebridade]()
 
 ## Insights
 - A utilização de ferramentas como Amazon Rekognition permite que a análise de imagens seja realizada de maneira escalável e eficiente.
