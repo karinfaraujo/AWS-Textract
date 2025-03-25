@@ -23,7 +23,7 @@ Aqui estão alguns prints do processo de OCR aplicado na CNH:
 Veja como o OCR foi aplicado à lista escolar:
 
 ### 1. Imagem original da lista escolar
-![Imagem da Lista Escolar](url_do_print_3)
+![Imagem da Lista Escolar](https://github.com/karinfaraujo/AWS-Textract/blob/main/lista-material-escolar.jpeg?raw=true))
 
 ### 2. Resultado do OCR extraído da lista escolar
 ![Resultado do OCR Lista](url_do_print_4)
