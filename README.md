@@ -53,7 +53,7 @@ Aqui estão os resultados do reconhecimento de atacantes:
 O modelo foi aplicado para reconhecer celebridades em imagens:
 
 ### 1. Imagem de celebridade
-![Imagem de Celebridade](url_do_print_6)
+![Imagem de Celebridade](https://github.com/karinfaraujo/AWS-Textract/blob/main/reconhecimento_celebridades/bbc.jpg?raw=true)
 
 ### 2. Imagem de celebridade
 ![Imagem de Celebridade](url_do_print_6)
