@@ -17,7 +17,7 @@ Aqui estão alguns prints do processo de OCR aplicado na CNH:
 ![Imagem da CNH](https://github.com/karinfaraujo/AWS-Textract/blob/main/cnh.png?raw=true)
 
 ### 2. Resultado do OCR extraído da CNH
-![Resultado do OCR](url_do_print_2)
+![Resultado do OCR](ocr_cnh)
 
 ## OCR Lista Escolar
 Veja como o OCR foi aplicado à lista escolar:
