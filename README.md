@@ -48,19 +48,19 @@ Aqui estão os resultados do reconhecimento de atacantes:
 ## Reconhecimento de Celebridades
 O modelo foi aplicado para reconhecer celebridades em imagens:
 
-### 1. Imagem de celebridade
+### 1. Imagem de Celebridade
 ![Imagem de Celebridade](https://github.com/karinfaraujo/AWS-Textract/blob/main/reconhecimento_celebridades/bbc.jpg?raw=true)
 
-### 2. Imagem de celebridade
+### 2. Imagem de Celebridade
 ![Imagem de Celebridade](https://github.com/karinfaraujo/AWS-Textract/blob/main/reconhecimento_celebridades/msn.jpg?raw=true)
 
-### 3. Imagem de celebridade
+### 3. Imagem de Celebridade
 ![Imagem de Celebridade](https://github.com/karinfaraujo/AWS-Textract/blob/main/reconhecimento_celebridades/neymar-torcedores.jpg?raw=true)
 
-### 4. Resultado do reconhecimento da celebridade 1
+### 4. Resultado do Reconhecimento da Celebridade 1
 ![Resultado Celebridade](https://github.com/karinfaraujo/AWS-Textract/blob/main/reconhecimento_celebridades/bbc-resultado.jpg?raw=true)
 
-### 5. Resultado do reconhecimento da celebridade 2
+### 5. Resultado do Reconhecimento da Celebridade 2
 ![Resultado Celebridade](https://github.com/karinfaraujo/AWS-Textract/blob/main/reconhecimento_celebridades/msn-resultado.jpg?raw=true)
 
 ### 6. Resultado do reconhecimento da celebridade 3
