@@ -32,7 +32,7 @@ Veja como o OCR foi aplicado à lista escolar:
 Aqui estão os resultados do reconhecimento de atacantes:
 
 ### 1. Imagem com atacante identificado
-![Atacante Identificado](url_do_print_5)
+![Atacante Identificado](https://github.com/karinfaraujo/AWS-Textract/blob/main/bale.jpg?raw=true)()
 
 ## Reconhecimento de Celebridades
 O modelo foi aplicado para reconhecer celebridades em imagens:
