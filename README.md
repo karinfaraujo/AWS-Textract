@@ -56,7 +56,7 @@ O modelo foi aplicado para reconhecer celebridades em imagens:
 ![Imagem de Celebridade](https://github.com/karinfaraujo/AWS-Textract/blob/main/reconhecimento_celebridades/bbc.jpg?raw=true)
 
 ### 2. Imagem de celebridade
-![Imagem de Celebridade](url_do_print_6)
+![Imagem de Celebridade](https://github.com/karinfaraujo/AWS-Textract/blob/main/reconhecimento_celebridades/msn.jpg?raw=true)
 
 ### 3. Imagem de celebridade
 ![Imagem de Celebridade](url_do_print_6)
