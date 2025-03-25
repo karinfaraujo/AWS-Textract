@@ -44,7 +44,7 @@ Aqui estão os resultados do reconhecimento de atacantes:
 ![Atacante 4](https://github.com/karinfaraujo/AWS-Textract/blob/main/neymar.jpg?raw=true)
 
 ### 5. Resultado 5 Atacante Identificado
-![Atacante 5](
+![Atacante 5](https://github.com/karinfaraujo/AWS-Textract/blob/main/resultado_bbc.jpg?raw=true)
 
 ### 6. Resultado 6 Atacante Identificado
 ![Atacante 6](
