@@ -66,7 +66,7 @@ O modelo foi aplicado para reconhecer celebridades em imagens:
 ## Insights
 - A utilização de ferramentas como Amazon Rekognition permite que a análise de imagens seja realizada de maneira escalável e eficiente.
 - O Amazon Textract facilita a extração de texto de documentos escaneados, permitindo automação em diversos setores.
-- Há várias possibilidades de utilização do Amazon Textract, com isso se torna uma ferramenta muito interessante. 
+- Há várias possibilidades de utilização do Amazon Textract, por isso se torna uma ferramenta muito interessante. 
 
 ## Possibilidades
 Com os conhecimentos adquiridos, é possível aplicar essas tecnologias para:
