@@ -40,7 +40,7 @@ Aqui estão os resultados do reconhecimento de atacantes:
 ![Atacante 5](https://github.com/karinfaraujo/AWS-Textract.Rekognition/blob/main/reconhecimento_atacantes/resultado_bbc.jpg?raw=true)
 
 ### 6. Resultado 6 Atacante Identificado
-![Atacante 6](https://github.com/karinfaraujo/AWS-Textract/blob/main/resultado_msn.jpg?raw=true)
+![Atacante 6](https://github.com/karinfaraujo/AWS-Textract.Rekognition/blob/main/reconhecimento_atacantes/resultado_msn.jpg?raw=true)
 
 ## Reconhecimento de Celebridades
 O modelo foi aplicado para reconhecer celebridades em imagens:
