@@ -67,7 +67,7 @@ O modelo foi aplicado para reconhecer celebridades em imagens:
 ![Resultado Celebridade](https://github.com/karinfaraujo/AWS-Textract/blob/main/reconhecimento_celebridades/neymar-torcedores-resultado.jpg?raw=true)
 
 ### 7. Código Python
-![Código Python]()
+![Código Python](reconhecimento_celebridades/pythoncode)
 
 ## Insights
 - A utilização de ferramentas como Amazon Rekognition permite que a análise de imagens seja realizada de maneira escalável e eficiente.
