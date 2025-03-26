@@ -25,7 +25,7 @@ Print e código Python do OCR e como ele foi aplicado à lista escolar:
 Aqui estão os resultados do reconhecimento de atacantes:
 
 ### 1. Atacante 1 Identificado
-![Atacante 1](https://github.com/karinfaraujo/AWS-Textract/blob/main/bale.jpg?raw=true)
+![Atacante 1](https://github.com/karinfaraujo/AWS-Textract.Rekognition/blob/main/reconhecimento_atacantes/bale.jpg?raw=true)
 
 ### 2. Atacante 2 Identificado
 ![Atacante 2](https://github.com/karinfaraujo/AWS-Textract/blob/main/cr7.jpg?raw=true)
