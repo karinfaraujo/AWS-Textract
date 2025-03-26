@@ -28,7 +28,7 @@ Aqui estão os resultados do reconhecimento de atacantes:
 ![Atacante 1](https://github.com/karinfaraujo/AWS-Textract.Rekognition/blob/main/reconhecimento_atacantes/bale.jpg?raw=true)
 
 ### 2. Atacante 2 Identificado
-![Atacante 2](https://github.com/karinfaraujo/AWS-Textract/blob/main/cr7.jpg?raw=true)
+![Atacante 2](https://github.com/karinfaraujo/AWS-Textract.Rekognition/blob/main/reconhecimento_atacantes/cr7.jpg?raw=true)
 
 ### 3. Atacante 3 Identificado
 ![Atacante 3](https://github.com/karinfaraujo/AWS-Textract/blob/main/messi.jpg?raw=true)
