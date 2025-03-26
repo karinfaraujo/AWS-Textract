@@ -37,7 +37,7 @@ Aqui estão os resultados do reconhecimento de atacantes:
 ![Atacante 4](https://github.com/karinfaraujo/AWS-Textract.Rekognition/blob/main/reconhecimento_atacantes/neymar.jpg?raw=true)
 
 ### 5. Resultado 5 Atacante Identificado
-![Atacante 5](https://github.com/karinfaraujo/AWS-Textract/blob/main/resultado_bbc.jpg?raw=true)
+![Atacante 5](https://github.com/karinfaraujo/AWS-Textract.Rekognition/blob/main/reconhecimento_atacantes/resultado_bbc.jpg?raw=true)
 
 ### 6. Resultado 6 Atacante Identificado
 ![Atacante 6](https://github.com/karinfaraujo/AWS-Textract/blob/main/resultado_msn.jpg?raw=true)
