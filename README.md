@@ -43,7 +43,7 @@ Aqui estão os resultados do reconhecimento de atacantes:
 ![Atacante 6](https://github.com/karinfaraujo/AWS-Textract.Rekognition/blob/main/reconhecimento_atacantes/resultado_msn.jpg?raw=true)
 
 ### 7. Código Python
-![Código Python](https://github.com/karinfaraujo/AWS-Textract.Rekognition/blob/main/reconhecimento_atacantes/pythoncode)
+![Código Python](reconhecimento_atacantes/pythoncode)
 
 ## Reconhecimento de Celebridades
 O modelo foi aplicado para reconhecer celebridades em imagens:
