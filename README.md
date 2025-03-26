@@ -42,6 +42,9 @@ Aqui estão os resultados do reconhecimento de atacantes:
 ### 6. Resultado 6 Atacante Identificado
 ![Atacante 6](https://github.com/karinfaraujo/AWS-Textract.Rekognition/blob/main/reconhecimento_atacantes/resultado_msn.jpg?raw=true)
 
+### 7. Código Python
+()
+
 ## Reconhecimento de Celebridades
 O modelo foi aplicado para reconhecer celebridades em imagens:
 
@@ -62,6 +65,9 @@ O modelo foi aplicado para reconhecer celebridades em imagens:
 
 ### 6. Resultado do Reconhecimento da Celebridade 3
 ![Resultado Celebridade](https://github.com/karinfaraujo/AWS-Textract/blob/main/reconhecimento_celebridades/neymar-torcedores-resultado.jpg?raw=true)
+
+### 7. Código Python
+()
 
 ## Insights
 - A utilização de ferramentas como Amazon Rekognition permite que a análise de imagens seja realizada de maneira escalável e eficiente.
